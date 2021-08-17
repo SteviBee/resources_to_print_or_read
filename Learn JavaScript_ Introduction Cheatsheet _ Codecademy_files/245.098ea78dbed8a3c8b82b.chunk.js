@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[245],{"a+F3":function(e,t,r){"use strict";r.d(t,"a",(function(){return s}));var i=r("wx14"),o=r("DZdY"),a=r("630U"),n=r("8J4F"),c=n.variance.compose(a.B.layout,a.B.color,a.B.space,a.B.positioning,a.B.border,n.variance.create({size:{property:"width",properties:["width","height"],transform:n.transformSize}})),s=Object(o.a)("svg",Object(i.a)({},{target:"eol2zvm0",label:"Svg"},Object(a.z)()))(c,"");s.defaultProps={width:16,height:16}}}]);
+//# sourceMappingURL=245.098ea78dbed8a3c8b82b.chunk.js.map
